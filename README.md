@@ -17,37 +17,37 @@ With a keen interest in Transformer architectures, NLP, and cloud-based applicat
 `Java` `C` `Python` `SQL` `HTML` `CSS` `Kotlin` `JavaScript` `C++`
 
 ### 📊 AI / Machine Learning / NLP
--Transformer Models (BERT, GPT-style, Custom)
--Deep Learning with TensorFlow & PyTorch
-.Model Fine-tuning & Transfer Learning
-.Tokenization (SMILES, Byte Pair Encoding - BPE)
-.Natural Language Processing (Text Classification, Embeddings)
-.Data Preprocessing, Augmentation, Feature Engineering
-.Model Evaluation, Hyperparameter Tuning
-.Hugging Face Transformers, Scikit-learn
+- Transformer Models (BERT, GPT-style, Custom)
+- Deep Learning with TensorFlow & PyTorch
+- Model Fine-tuning & Transfer Learning
+- Tokenization (SMILES, Byte Pair Encoding - BPE)
+- Natural Language Processing (Text Classification, Embeddings)
+- Data Preprocessing, Augmentation, Feature Engineering
+- Model Evaluation, Hyperparameter Tuning
+- Hugging Face Transformers, Scikit-learn
 
 ### 🌐 Full-Stack Development
-.MERN Stack (MongoDB, Express.js, React.js, Node.js)
-.RESTful API Design & Integration
-.MongoDB Atlas
-.Android Development using Kotlin
-.Version Control with Git & GitHub
-.Client-Server Architecture
+- MERN Stack (MongoDB, Express.js, React.js, Node.js)
+- RESTful API Design & Integration
+- MongoDB Atlas
+- Android Development using Kotlin
+- Version Control with Git & GitHub
+- Client-Server Architecture
 
 ### 🛠 Tools & Platforms
-.VS Code, Google Colab
-.Power BI (Data Visualization)
-.Kaggle (Competitions, Notebooks)
-.Git, GitHub Projects
-.Postman, Swagger (API Testing)
+- VS Code, Google Colab
+- Power BI (Data Visualization)
+- Kaggle (Competitions, Notebooks)
+- Git, GitHub Projects
+- Postman, Swagger (API Testing)
 
 ### ⚙ Software Engineering Practices  
-.Agile Collaboration
-.Documentation
-.Debugging
-.Clean Architecture
-.Modular Design
-.Object Oriented Programming    
+- Agile Collaboration
+- Documentation
+- Debugging
+- Clean Architecture
+- Modular Design
+- Object Oriented Programming    
 
 ### 🌟 Soft Skills  
 - Analytical Problem Solving   
