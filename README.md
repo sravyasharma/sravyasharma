@@ -17,8 +17,8 @@ With a keen interest in Transformer architectures, NLP, and cloud-based applicat
 `Java` `C` `Python` `SQL` `HTML` `CSS` `Kotlin` `JavaScript` `C++`
 
 ### 📊 AI / Machine Learning / NLP
-.Transformer Models (BERT, GPT-style, Custom)
-.Deep Learning with TensorFlow & PyTorch
+-Transformer Models (BERT, GPT-style, Custom)
+-Deep Learning with TensorFlow & PyTorch
 .Model Fine-tuning & Transfer Learning
 .Tokenization (SMILES, Byte Pair Encoding - BPE)
 .Natural Language Processing (Text Classification, Embeddings)
