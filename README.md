@@ -1,6 +1,5 @@
 # 👋 Hello, I'm Devalla Sravya  
-🎓 3rd Year Engineering Student | 💻 Full-Stack and Machine Learning Portfolio | 🎯 Event Co-Ordinator 
-📍 Hyderabad, India  
+🎓 3rd Year Engineering Student | 💻 Full-Stack and Machine Learning Portfolio | 🎯 Event Co-Ordinator |📍 Hyderabad, India  
 
 ---
 
