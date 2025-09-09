@@ -7,8 +7,6 @@
 
 I'm a Computer Science and Engineering student passionate about solving real-world problems through technology. I enjoy working across domains—from designing AI models to building embedded systems. With a keen interest in Transformer architectures, NLP, and cloud-based applications, I enjoy developing both backend logic and user-facing solutions. I’ve also co-managed events, where I honed my leadership, communication, and problem-solving skills.
 
-Outside of academics, I've taken active roles in organizing technical events, where I developed skills in team management, communication, and creative problem-solving.
-
 ---
 
 ## 🛠 Tech Stack & Skills  
