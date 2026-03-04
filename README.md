@@ -1,13 +1,3 @@
-Great README already, Sravzz 👌 — it just needs **two main improvements**:
-
-1. **Correct the Court-MOE description** (currently it sounds like a simple legal search system).
-2. **Add the actual ML stack used in Court-MOE** (LegalBERT, MoE, routing, PyTorch, etc.).
-3. Slightly **upgrade the wording so it sounds more research/AI-focused**.
-
-I rewrote only the **relevant sections while keeping your structure**, so you can paste it directly.
-
----
-
 # 👋 Hello, I'm Devalla Sravya
 
 🎓 3rd Year Computer Science Engineering Student
