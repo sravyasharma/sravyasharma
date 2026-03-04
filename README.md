@@ -7,9 +7,9 @@
 
 # ✨ About Me
 
-I’m a Computer Science student passionate about building **AI-driven systems and scalable software solutions**. My work focuses on **Transformer architectures, Natural Language Processing, and domain-specific machine learning applications**.
-
-I enjoy designing systems that combine **deep learning models with real-world applications**, ranging from **legal judgment prediction using Mixture-of-Experts architectures** to **polymer property prediction using Transformer models**. Alongside machine learning, I also build **full-stack applications that integrate AI models into practical user-facing systems**.
+I’m a Computer Science engineer passionate about building intelligent, real-world AI systems. My interests revolve around Transformer architectures, Natural Language Processing, and domain-specific machine learning.
+I enjoy working at the intersection of research and engineering — designing architectures such as Mixture-of-Experts models for legal judgment prediction and building Transformer-based systems for polymer property prediction.
+Alongside machine learning research, I also develop full-stack applications that integrate AI models into scalable, user-facing systems. I’m driven by curiosity, strong problem-solving, and a constant desire to build systems that are both technically deep and practically useful.
 
 ---
 
