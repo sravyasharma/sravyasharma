@@ -1,7 +1,6 @@
 # 👋 Hello, I'm Sravya Devalla
 
-🎓 3rd Year Computer Science Engineering Student
-🤖 AI & Machine Learning Enthusiast | 💻 Full-Stack Developer
+💻 Computer Science Engineer | 🤖 AI & Machine Learning Enthusiast | 🚀 Full-Stack Developer  
 📍 Hyderabad, India
 
 ---
