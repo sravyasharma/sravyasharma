@@ -70,7 +70,7 @@ I enjoy designing systems that combine **deep learning models with real-world ap
 
 # 📂 Projects
 
-## 🔬 TransPolymer
+## 🔬 [TransPolymer](https://github.com/sravyasharma/TransPolymer)
 
 **Transformer-based polymer property prediction system**
 
@@ -82,7 +82,7 @@ I enjoy designing systems that combine **deep learning models with real-world ap
 
 ---
 
-## ⚖️ Court-MOE
+## ⚖️ [Court-MOE](https://github.com/sravyasharma/Court-MOE)
 
 **Mixture-of-Experts based Legal Judgment Prediction System**
 
