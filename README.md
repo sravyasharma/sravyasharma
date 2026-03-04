@@ -7,9 +7,10 @@
 
 # ✨ About Me
 
-I’m a Computer Science engineer passionate about building intelligent, real-world AI systems. My interests revolve around Transformer architectures, Natural Language Processing, and domain-specific machine learning.
-I enjoy working at the intersection of research and engineering — designing architectures such as Mixture-of-Experts models for legal judgment prediction and building Transformer-based systems for polymer property prediction.
-Alongside machine learning research, I also develop full-stack applications that integrate AI models into scalable, user-facing systems. I’m driven by curiosity, strong problem-solving, and a constant desire to build systems that are both technically deep and practically useful.
+Machine Learning enthusiast with experience across the complete ML lifecycle including data preprocessing, feature engineering,
+model development, hyperparameter tuning, evaluation, and deployment. Experienced in deep learning, NLP, transformer
+architectures, and molecular machine learning. Skilled in building scalable ML pipelines, GPU-accelerated training, and
+production-ready AI systems.
 
 ---
 
