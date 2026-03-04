@@ -101,7 +101,7 @@ Tech Stack:
 
 ---
 
-## ⚙ [Automated Borewell System](https://github.com/sravyasharma/BMS/tree/main)
+## ⚙ [Automated Borewell System](https://github.com/sravyasharma/ABS/tree/main)
 
 **IoT-based water monitoring and automation system**
 
