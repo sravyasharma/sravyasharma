@@ -172,6 +172,9 @@ The system processes long-form legal documents and dynamically routes them to **
 💼 **LinkedIn**
 [www.linkedin.com/in/sravyadevalla](http://www.linkedin.com/in/sravyadevalla)
 
+⌨️ **Leetcode**
+[https://leetcode.com/u/sravyasharma/](https://leetcode.com/u/sravyasharma/)
+
 ---
 
 # 🎯 Currently Exploring
