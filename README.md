@@ -115,7 +115,7 @@ Tech Stack:
 # 📫 Contact
 
 📧 Email
-[sravyadevallalaxmi@gmail.com](mailto:sravyadevallalaxmi@gmail.com)
+[sravyadevallalaxmi@gmail.com](mailto:sravyadevallalaxmi@gmail.com)|
 
 💼 LinkedIn
 [www.linkedin.com/in/sravyadevalla](http://www.linkedin.com/in/sravyadevalla)
